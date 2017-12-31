@@ -1,0 +1,10 @@
+# Built application files
+*.pkl
+*.gz
+save.*
+*tar
+preprocess*
+/__pycache__/
+/.ipynb_checkpoints
+/cifar-10-batches-py
+
